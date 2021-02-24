@@ -1,0 +1,9 @@
+main {
+  max-width: 1024px;
+  margin: 60px auto;
+  font-family: "Merriweather","Helvetica Neue",Helvetica,sans-serif;
+}
+
+.nuxt-link-active {
+  @apply font-bold underline;
+}
